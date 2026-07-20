@@ -1,0 +1,4 @@
+ID,salesOrder_ID,name,description,releaseDate,discontinuedDate,price,height,width,depth,quantity,unitOfMeasure
+aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,11111111-1111-1111-1111-111111111111,Laptop,Business Laptop,2026-01-01,,1200.00,10.000,30.000,20.00,1.00,PC
+bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb,11111111-1111-1111-1111-111111111111,Mouse,Wireless Mouse,2026-01-01,,25.00,3.000,6.000,10.00,2.00,PC
+cccccccc-cccc-cccc-cccc-cccccccccccc,22222222-2222-2222-2222-222222222222,Monitor,External Monitor,2026-01-01,,250.00,40.000,60.000,8.00,1.00,PC

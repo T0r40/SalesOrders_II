@@ -1,0 +1,9 @@
+node_modules/
+.env
+default-env.json
+gen/
+dist/
+.mtar
+.DS_Store
+.vscode/
+*.log
